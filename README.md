@@ -33,3 +33,14 @@ Penjelasan :
 
 Hasil dari source code diatas adalah<br>
 ![outputlatihan1](Pic/outputlatihan1.png)
+
+## Latihan 2
+![latihan2](Pic/latihan2.png)<br>
+Untuk latihan 2 ini sebenarnya sama dengan **Tugas Praktikum 3 - Latihan 1**. Jadi agar tidak menjelaskan 2 kali, bisa dilihat di [Click here](https://github.com/fazakus/labspy03#latihan-1)
+
+**================================================================**<br>
+**=========================FAZA ARDAN KUSUMA=======================**<br>
+**=============================312010001===========================**<br>
+**==============================TA.20.B1===========================**<br>
+**============================TERIMA KASIH=========================**<br>
+**================================================================**
