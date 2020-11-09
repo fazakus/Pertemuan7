@@ -4,6 +4,14 @@
 NIM     : 312010001<br>
 Kelas   : TI.20.B1**
 
+
+Pada pertemuan 7 ini, diberikan 2 latihan, yaitu :
+
+| No | Description | Link |
+|----|----|----|
+| 1 | Latihan 1 | [Clik Here](#latihan-1) |
+| 2 | Latihan 2 | [Clik Here](#latihan-2) |
+
 ## Latihan 1
 ![latihan1](Pic/latihan1.png)
 Di latihan 1 kali ini, tugasnya disuruh membuat program perulangan bertingkat (nested). Untuk perulangan saya menggunakan syntax ***for***<br>
